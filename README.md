@@ -3,7 +3,7 @@
 * [Download ZIP](http://tutorials.pipeline-dev.services.acquia.io/pipelinestutorial501.zip)
 * [Watch video](https://drive.google.com/open?id=0BwBnqz3kkaPuaWdiOXU4STAtb00)
 
-The purpose of the 501 tutorial is to demonstrate the Pipelines web env and show how you can run Behat as an example use of the web
+The purpose of the 501 tutorial is to demonstrate the Pipelines web env, and show how you can run Behat as an example use of the web
 environment.
 
 Copy the files and directories from this directory into your Acquia Cloud repository. To get the files, clone this repository and checkout the pipelines501 branch, or you can [download the ZIP file here](http://tutorials.pipeline-dev.services.acquia.io/pipelinestutorial501.zip).
